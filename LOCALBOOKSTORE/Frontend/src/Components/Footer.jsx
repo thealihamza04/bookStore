@@ -54,3 +54,9 @@ const Footer = () => {
 }
 
 export default Footer
+
+
+
+// jflkjdjjdkslf
+fsjdlkajf;alksdjflk;sdjflk;asjdf;lsd
+// Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aperiam nam aut minima a sint voluptatem totam necessitatibus eos, expedita ea ipsam ducimus. Ipsa vero dolorum ut laboriosam suscipit laudantium quia eos natus illum molestias perspiciatis eius officiis soluta alias asperiores similique dicta ea, perferendis molestiae incidunt nam minus ratione! Architecto culpa cupiditate placeat excepturi alias ea ipsum atque modi at expedita repellendus beatae, nam tenetur, minima delectus est totam! Doloribus libero, maxime sint consequatur ex maiores blanditiis mollitia perspiciatis similique assumenda accusamus optio eligendi veritatis atque? Accusamus accusantium quae vitae eveniet optio corporis placeat possimus necessitatibus voluptatum, suscipit ducimus minima.

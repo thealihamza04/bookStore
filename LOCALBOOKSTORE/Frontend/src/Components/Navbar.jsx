@@ -44,7 +44,7 @@ const Navbar = () => {
     const navItems = (<>
         <li><a href='/'>Home</a></li>
         <li><a href='/course'>Course</a></li>
-        <li><a href='/contact'>Contact</a></li>
+        <li><a href='/contacts'>Contact</a></li>
         <li><a>About</a></li>
     </>)
 

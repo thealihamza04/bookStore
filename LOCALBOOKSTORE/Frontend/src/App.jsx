@@ -2,7 +2,7 @@ import React from 'react'
 import Home from './Home/Home'
 import { Route, Routes } from 'react-router-dom'
 import Courses from './courses/Courses'
-// import Contactpage from './contact/Contactpage'
+import Contactpage from './contact/Contactpage'
 
 const App = () => {
   return (
@@ -11,7 +11,7 @@ const App = () => {
         <Routes>
           <Route path='/' element={<Home />} />
           <Route path='/course' element={<Courses />} />
-          {/* <Route path='/contact' element={<Contactpage />} />  */}
+          <Route path='/contacts' element={<Contactpage />} />
         </Routes>
       </div>
     </>

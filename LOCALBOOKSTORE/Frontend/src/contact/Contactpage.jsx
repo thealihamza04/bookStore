@@ -1,4 +1,3 @@
-
 import React from 'react'
 import Navbar from '../Components/Navbar'
 import Footer from '../Components/Footer'
@@ -8,13 +7,10 @@ const Contactpage = () => {
     return (
         <>
             <Navbar />
-            <div className=''>
-                <Contact />
-            </div>
+            <Contact />
             <Footer />
         </>
     )
 }
 
-export default Courses
-
+export default Contactpage

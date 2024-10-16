@@ -20,7 +20,7 @@ const Banner = () => {
                         <input type="text" className="grow" placeholder="Username" />
                     </label>
                 </div>
-                <button className="btn mt-6 btn-secondary">Secondary</button>
+                <button className="btn mt-6 btn-secondary">Send</button>
             </div>
             <div className='w-full md:w-1/2 items-center mt-12 md:mt-28 md:px-20'>
                 <img className='h-92 w-92 hidden md:block' src={Bnr} alt="Books" />
@@ -29,4 +29,5 @@ const Banner = () => {
     )
 }
 
-export default Banner
+export default Banner;
+// testing

@@ -121,7 +121,7 @@ const Navbar = () => {
                         </svg>
                     </label>
                     <div>
-                        <a className="bg-black btn text-white cursor-pointer" onClick={()=>document.getElementById("my_modal_2").showModal()}>Login</a>
+                        <a className="bg-black btn text-white cursor-pointer" onClick={()=>document.getElementById("my_modal_3").showModal()}>Login</a>
                     </div>
                     <Login/>
                 </div>
@@ -133,4 +133,5 @@ const Navbar = () => {
 export default Navbar
 
 
-// 2:00:00
+
+// 2:12:00
